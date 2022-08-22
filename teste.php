@@ -27,3 +27,4 @@ add_shortcode ("busca", "teste");
 
  add_filter( 'the_content', 'teste');
  ?>
+ <!-- ok -->

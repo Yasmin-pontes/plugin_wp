@@ -1,14 +1,14 @@
 <div>
-    <label for="">Cep: </label>
+    <label for="">CEP: </label>
 </div>
 <div>
     <button id="buscar"> Buscar </button>
 </div>
 <div>
-    <p>compra: <span id="compra"> </span></p>
-    <p>venda: <span id="venda"> </span></p>
-    <p>maxima: <span id="máxima"> </span></p>
-      <p>minimo: <span id="mínimo"> </span></p>
+    <p>Compra: <span id="compra"> </span></p>
+    <p>Venda: <span id="venda"> </span></p>
+    <p>Maxima: <span id="máxima"> </span></p>
+      <p>Minimo: <span id="mínimo"> </span></p>
 </div>
  <script type="text/javascript">
   
@@ -33,5 +33,3 @@
         )
     });
  </script>
-
- <!-- oi é o meu codigo bonito -->
